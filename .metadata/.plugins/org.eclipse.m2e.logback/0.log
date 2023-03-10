@@ -1,0 +1,10 @@
+2023-03-09 13:38:55,540 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-09 13:50:42,723 [Worker-31: https://espejito.fder.edu.uy/eclipse/releases/2022-12/202212071000/plugins/org.eclipse.equinox.weaving.hook_1.3.200.v20220720-1916.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://espejito.fder.edu.uy:443
+2023-03-09 13:50:42,723 [Worker-34: https://espejito.fder.edu.uy/eclipse/releases/2022-12/202212071000/plugins/org.eclipse.equinox.weaving.caching_1.2.200.v20220720-1916.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://espejito.fder.edu.uy:443
+2023-03-09 14:03:15,332 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-09 14:04:45,690 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-09 14:04:56,442 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 18.0.1.1+2-6
+2023-03-09 14:04:56,464 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-03-09 14:04:56,487 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4536f393{/help,null,AVAILABLE}
+2023-03-09 14:04:56,505 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@58c47f7a{HTTP/1.1, (http/1.1)}{127.0.0.1:35816}
+2023-03-09 14:04:56,517 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@4989f706{STARTING}[10.0.12,sto=0] @24640ms
